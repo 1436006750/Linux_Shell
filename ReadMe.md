@@ -31,7 +31,8 @@ unset xxx
 [&# + ASCII_num;]
 
 
-
+大括号里面的要留有空白：
+    { ABCD }
 
 
 
